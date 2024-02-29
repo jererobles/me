@@ -1,7 +1,7 @@
 ---
 published: true
-date: 2018-05-01
-title: This is my first post!
+date: 2024-02-29
+title: the muse has to find you working
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
