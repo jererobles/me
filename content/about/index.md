@@ -9,6 +9,6 @@ eleventyNavigation:
 
 ### Jeremías Robles
 
-- [linkedin.com/in/jeremiasrobles/](https://www.linkedin.com/in/jeremiasrobles/)
+- ~~linkedin.com/in/jeremiasrobles~~ - **updated**: i [deleted my linkedin](/blog/linkedout) account.
 - [github.com/jererobles](https://github.com/jererobles)
 - [resume.pdf](public/Resume.pdf)
